@@ -1,0 +1,16 @@
+
+table, th, td {
+  border: 1px solid;
+  margin: 16px 4px;
+}
+
+td {
+  padding: 1rem;
+}
+td:focus {
+  outline: 5px dotted red;
+}
+
+.fill-black {
+  background-color: #000;
+}

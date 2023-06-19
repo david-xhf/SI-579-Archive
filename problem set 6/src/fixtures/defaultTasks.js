@@ -1,0 +1,80 @@
+export const defaultTasks = [
+  {
+    task: 'laundry',
+    created: 1678999964830,
+    date: '2023-04-21',
+    time: '11:25:00',
+  },
+  {
+    task: 'Drop SI 579',
+    date: '2023-04-26',
+    time: '11:25:00',
+    created: 1678999964832,
+  },
+  {
+    task: 'Purchase apple',
+    date: '2023-04-26',
+    time: '11:25:00',
+    created:1678999964834,
+  },
+  {
+    task: 'Purchase banana',
+    date: '2023-04-27',
+    time: '11:25:00',
+    created:1678999964836,
+  },
+  {
+    task: 'Purchase cranberry',
+    date: '2023-04-27',
+    time: '11:25:00',
+    created:1678999964838,
+  },
+  {
+    task: 'Purchase durian',
+    date: '2023-05-02',
+    time: '11:25:00',
+    created:1678999964840,
+  },
+  {
+    task: 'Purchase egg',
+    date: '2023-05-06',
+    time: '11:25:00',
+    created:1678999964842,
+  },
+  {
+    task: 'Purchase frankfurters',
+    date: '2023-05-07',
+    time: '11:25:00',
+    created:1678999964844,
+  },
+  {
+    task: 'Purchase grapes',
+    date: '2023-05-10',
+    time: '11:25:00',
+    created:1678999964846,
+  },
+  {
+    task: 'Purchase hot sauce',
+    date: '2023-05-12',
+    time: '11:25:00',
+    created:1678999964846,
+  },
+  {
+    task: 'Purchase ice cream',
+    date: '2023-05-14',
+    time: '11:25:00',
+    created:1647999978647,
+  },
+  {
+    task: 'Purchase juice',
+    date: '2023-05-14',
+    time: '11:25:00',
+    created:1647999978649,
+  },
+  {
+    task: 'Sharpen knife',
+    date: '2023-05-14',
+    time: '11:25:00',
+    created:1647999978651,
+  },
+];

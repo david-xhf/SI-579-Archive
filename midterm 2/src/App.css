@@ -1,0 +1,32 @@
+.input-even {
+  border-style: double;
+}
+
+.input-odd {
+  border-style: dotted;
+}
+
+.feedback-even {
+  background-color: #FFF;
+  color: blue;
+}
+
+.feedback-odd {
+  background-color: blue;
+  color: #FFF;
+}
+
+.input-odd.input-odd, .input-odd.input-odd:focus{
+  background: black;
+  color: white;
+  border-style: dotted;
+}
+
+#Problem-3 > div > div:nth-child(1) > textarea {
+  width: 100%;
+}
+
+#Problem-2 span {
+  display: inline-block;
+  cursor: pointer;
+}
